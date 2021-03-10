@@ -15,11 +15,4 @@ dependencies:
     - natsort
     - sklearn
     - pytest
-name: assignment6
-channels:
-  - defaults
-prefix: /Users/taziy/anaconda3/envs/assignment6
-name: pytest3
-channels:
-  - defaults
 prefix: /Users/taziy/anaconda3/envs/pytest3

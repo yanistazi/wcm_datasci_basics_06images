@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
-from ..functions.utils import *
 import natsort
+from ..functions.utils import *
+
 
 def test_find_middle_even():
     # test if a given even array return the right index
